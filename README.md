@@ -47,6 +47,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included
 * [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
 * [Graphios](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
 * [heapster](https://github.com/GoogleCloudPlatform/heapster) - Monitor container resource usage of a Kubernetes cluster
+* [heka](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
 
 ### Libraries
 
