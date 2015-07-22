@@ -48,6 +48,8 @@ Tools that generate data that feed into multiple backends, InfluxDB included
 * [Graphios](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
 * [heapster](https://github.com/GoogleCloudPlatform/heapster) - Monitor container resource usage of a Kubernetes cluster
 * [heka](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
+* [Riemann](https://github.com/aphyr/riemann) - A network event stream processing system, in Clojure
+* [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD
 
 ### Libraries
 
