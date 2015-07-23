@@ -100,6 +100,7 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 
 ### Lists of awesome lists that include awesome-influxdb
 
+* [awesome](https://github.com/sindresorhus/awesome)
 * [lists](https://github.com/jnv/lists)
 
 ## License
