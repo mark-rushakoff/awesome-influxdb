@@ -6,6 +6,12 @@ This list focuses on libraries, tools, etc. supporting InfluxDB version 0.9 and 
 Want to make this list better?
 Take a look at our page on [contributing](CONTRIBUTING.md) and then open a pull request!
 
+## Reference material
+
+If you know of any particularly useful blog posts, talks, slides, etc. that belong in this list, please open a pull request!
+
+* [Official documentation](https://influxdb.com/docs/v0.9/introduction/overview.html)
+
 ## Client libraries
 
 ### Official
@@ -66,12 +72,18 @@ Plugins to allow other standalone tools to send their data into InfluxDB.
 * [mod-influxdb](https://github.com/savoirfairelinux/mod-influxdb) - Shinken module for exporting data to InfluxDB
 * [sensu-plugins-influxdb](https://github.com/sensu-plugins/sensu-plugins-influxdb) - Sensu InfluxDB Plugins
 
-## Dashboards and visualization
+## Consuming data from InfluxDB
+
+### Dashboards and visualization
 
 * [Chronograf](https://influxdb.com/chronograf/index.html) - Official InfluxDB data visualization tool (closed source)
 * [facette](https://github.com/facette/facette) - Time series data visualization and graphing software
 * [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
 * [ostent](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB
+
+### Other tools
+
+* [Morgoth](https://github.com/nathanielc/morgoth) - Metric anomaly detection
 
 ## Provisioning InfluxDB
 
