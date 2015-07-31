@@ -40,7 +40,6 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 * [agento](https://github.com/abrander/agento) - Client/server collecting near realtime metrics from Linux hosts
-* [influxdb-collector](https://github.com/poxet/influxdb-collector) - InfluxDB collector for windows. Uses performance counters to collect data from the machine and send them to InfluxDB to be viewable by grafana
 * [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB.
 * [Telegraf](https://github.com/influxdb/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB
 
