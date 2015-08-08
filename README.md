@@ -105,6 +105,7 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 
 * [awesome-bigdata](https://github.com/onurakpolat/awesome-bigdata)
 * [awesome-dashboard](https://github.com/obazoud/awesome-dashboard)
+* [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
 * [awesome-db](https://github.com/numetriclabz/awesome-db)
 * [awesome-go](https://github.com/avelino/awesome-go)
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
