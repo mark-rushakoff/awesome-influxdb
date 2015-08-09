@@ -40,6 +40,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 * [agento](https://github.com/abrander/agento) - Client/server collecting near realtime metrics from Linux hosts
+* [Influx-Capacitor](https://github.com/poxet/Influx-Capacitor) - Influx-Capacitor collects metrics from windows machines using Performance Counters. Data is sent to influxDB to be viewable by grafana
 * [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB.
 * [Telegraf](https://github.com/influxdb/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB
 
@@ -50,9 +51,11 @@ Tools that generate data that feed into multiple backends, InfluxDB included
 * [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers
 * [cloudwatch-sender](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from Cloudwatch
 * [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
+* [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [Graphios](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
 * [heapster](https://github.com/GoogleCloudPlatform/heapster) - Monitor container resource usage of a Kubernetes cluster
 * [heka](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
+* [metrics.sh](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
 * [Riemann](https://github.com/aphyr/riemann) - A network event stream processing system, in Clojure
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD
 
@@ -60,6 +63,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included
 
 Libraries to collect data and feed into InfluxDB.
 
+* [metrics](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in.
 * [telemetry](https://github.com/arussellsaw/telemetry) - metric reporting for Go applications
 
 ### Plugins
