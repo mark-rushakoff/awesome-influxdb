@@ -40,8 +40,10 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 * [agento](https://github.com/abrander/agento) - Client/server collecting near realtime metrics from Linux hosts
+* [aggregateD](https://github.com/ccpgames/aggregateD) - A dogstatsD inspired metrics and event aggregation daemon for InfluxDB
+* [Charmander](https://github.com/att-innovate/charmander) - Charmander is a lab environment for measuring and analyzing resource-scheduling algorithms
 * [Influx-Capacitor](https://github.com/poxet/Influx-Capacitor) - Influx-Capacitor collects metrics from windows machines using Performance Counters. Data is sent to influxDB to be viewable by grafana
-* [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB.
+* [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB
 * [Telegraf](https://github.com/influxdb/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB
 
 #### Non-dedicated
@@ -63,7 +65,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included
 
 Libraries to collect data and feed into InfluxDB.
 
-* [metrics](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in.
+* [metrics](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
 * [telemetry](https://github.com/arussellsaw/telemetry) - metric reporting for Go applications
 
 ### Plugins
@@ -86,6 +88,7 @@ Plugins to allow other standalone tools to send their data into InfluxDB.
 
 ### Other tools
 
+* [hubot-influxdb-alerts](https://github.com/amwelch-oss/hubot-influxdb-alerts) - Create and manage alerts in your chatroom using hubot and influxdb
 * [Morgoth](https://github.com/nathanielc/morgoth) - Metric anomaly detection
 
 ## Provisioning InfluxDB
