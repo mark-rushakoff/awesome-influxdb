@@ -36,6 +36,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [influxdbr](https://github.com/dleutnant/influxdbr) - R library for InfluxDB
 * [instream](https://github.com/mneudert/instream) - InfluxDB driver for Elixir
 * [node-influx](https://github.com/node-influx/node-influx) - InfluxDB Node.js Client
+* [node-influx-udp](https://github.com/mediocre/node-influx-udp) - Write to InfluxDB using its UDP interface
 * [scala-influxdb-client](https://github.com/paulgoldbaum/scala-influxdb-client) - Asynchronous InfluxDB client for Scala
 
 ## Collecting data into InfluxDB
@@ -75,6 +76,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [metrics.sh](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
 * [Riemann](https://github.com/aphyr/riemann) - A network event stream processing system, in Clojure
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD
+* [statsite](https://github.com/armon/statsite) - C implementation of statsd
 
 ### Libraries
 
@@ -97,6 +99,7 @@ Hooks for other logging libraries to output to InfluxDB.
 
 Plugins to allow other standalone tools to send their data into InfluxDB.
 
+* [embulk-output-influxdb](https://github.com/joker1007/embulk-output-influxdb) - InfluxDB output plugin for Embulk
 * [exometer_influxdb](https://github.com/travelping/exometer_influxdb) - Exometer reporter for InfluxDB
 * [fluent-plugin-influxdb](https://github.com/fangli/fluent-plugin-influxdb) - A buffered output plugin for fluentd and InfluxDB
 * [influx-nagios-plugin](https://github.com/shaharke/influx-nagios-plugin) - Nagios plugin for querying monitoring stats from InfluxDB
