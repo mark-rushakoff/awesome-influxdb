@@ -27,6 +27,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [capacitor](https://github.com/olauzon/capacitor) - A Clojure client for InfluxDB
 * [cl-influxdb](https://github.com/mmaul/cl-influxdb) - Common Lisp interface to the Time Series Database InfluxDB
 * [erflux](https://github.com/gossiperl/erflux) - InfluxDB client for Erlang
+* [influent](https://github.com/gobwas/influent) - InfluxDB Javascript driver
 * [influent.rs](https://github.com/gobwas/influent.rs) - InfluxDB Rust driver
 * [InfluxDB-Client-LabVIEW](https://github.com/johanvandenbroek/InfluxDB-Client-LabVIEW) - LabVIEW client for InfluxDB
 * [influxdb-haskell](https://github.com/maoe/influxdb-haskell) - Haskell client library for InfluxDB
@@ -51,6 +52,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [aggregateD](https://github.com/ccpgames/aggregateD) - A [dogstatsD](http://docs.datadoghq.com/guides/dogstatsd/) inspired metrics and event aggregation daemon for InfluxDB
 * [Charmander](https://github.com/att-innovate/charmander) - Charmander is a lab environment for measuring and analyzing resource-scheduling algorithms
 * [Influx-Capacitor](https://github.com/poxet/Influx-Capacitor) - Influx-Capacitor collects metrics from windows machines using Performance Counters. Data is sent to influxDB to be viewable by grafana
+* [influxdb-sqlserver](https://github.com/zensqlmonitor/influxdb-sqlserver) - Collect Microsoft SQL Server metrics for reporting to InfluxDB and visualize them with Grafana
 * [influxsnmp](https://github.com/paulstuart/influxsnmp) - Poll network devices via SNMP and save the data in InfluxDB
 * [mesos-influxdb-collector](https://github.com/kpacha/mesos-influxdb-collector) - Lightweight [mesos](https://mesos.apache.org/) stats collector for InfluxDB
 * [mqforward](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) to influxdb forwarder
@@ -123,6 +125,7 @@ Tools to import a fixed set of data into InfluxDB.
 
 * [Chronograf](https://influxdata.com/time-series-platform/chronograf/) - Official InfluxDB data visualization tool (closed source)
 * [facette](https://github.com/facette/facette) - Time series data visualization and graphing software
+* [FluxDash](https://github.com/vrecan/FluxDash) - Terminal based InfluxDB dashboard
 * [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
 * [ostent](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB
 
@@ -138,7 +141,7 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 
 * [chef-influxdb](https://github.com/bdangit/chef-influxdb) - Chef cookbook for InfluxDB
 * [golja-influxdb](https://github.com/n1tr0g/golja-influxdb) - Puppet module for InfluxDB
-* [influxdb-formulaf](https://github.com/saltstack-formulas/influxdb-formula) - Installs and configures the InfluxDB timeseries database
+* [influxdb-formula](https://github.com/saltstack-formulas/influxdb-formula) - Installs and configures the InfluxDB timeseries database
 * [influxdb-release](https://github.com/pivotal-cf-experimental/influxdb-release) - Experimental BOSH release for InfluxDB
 * [palkan-ansible/influxdb](https://github.com/palkan-ansible/influxdb) - Installs InfluxDB 0.9.X on Ansible
 * [tutum-docker-influxdb](https://github.com/tutumcloud/influxdb) - Docker image to run an out-of-the-box InfluxDB server
