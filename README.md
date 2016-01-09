@@ -1,6 +1,6 @@
 # awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome projects, libraries, tools, etc. related to [InfluxDB](https://influxdb.com/).
+A curated list of awesome projects, libraries, tools, etc. related to [InfluxDB](https://influxdata.com/).
 This list focuses on libraries, tools, etc. supporting InfluxDB version 0.9 and up.
 
 Want to make this list better?
@@ -10,17 +10,17 @@ Take a look at our page on [contributing](CONTRIBUTING.md) and then open a pull 
 
 If you know of any particularly useful blog posts, talks, slides, etc. that belong in this list, please open a pull request!
 
-* [Official documentation](https://influxdb.com/docs/v0.9/introduction/overview.html)
+* [Official documentation](https://docs.influxdata.com/influxdb/v0.9/)
 
 ## Client libraries
 
 ### Official
 
-* [Go](https://github.com/influxdb/influxdb/tree/master/client) - Go client for InfluxDB, contained as package within main InfluxDB repo
-* [Java](https://github.com/influxdb/influxdb-java) - Java client for InfluxDB
-* [PHP](https://github.com/influxdb/influxdb-php) - PHP client for InfluxDB
-* [Python](https://github.com/influxdb/influxdb-python) - Python client for InfluxDB
-* [Ruby](https://github.com/influxdb/influxdb-ruby) - Ruby client for InfluxDB
+* [Go](https://github.com/influxdata/influxdb/tree/master/client) - Go client for InfluxDB, contained as package within main InfluxDB repo
+* [Java](https://github.com/influxdata/influxdb-java) - Java client for InfluxDB
+* [PHP](https://github.com/influxdata/influxdb-php) - PHP client for InfluxDB
+* [Python](https://github.com/influxdata/influxdb-python) - Python client for InfluxDB
+* [Ruby](https://github.com/influxdata/influxdb-ruby) - Ruby client for InfluxDB
 
 ### Unofficial
 
@@ -57,7 +57,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [nest_poller](https://github.com/grempe/nest_poller) - A simple hack to retrieve and publish some statistics about [Nest](https://nest.com/) devices to an InfluxDB instance
 * [ntp_checker](https://github.com/fss1/ntp_checker) - compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds
 * [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB
-* [Telegraf](https://github.com/influxdb/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB
+* [Telegraf](https://github.com/influxdata/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB
 * [tesla-streamer](https://github.com/timdorr/tesla-streamer) - Streams data from Tesla Model S to InfluxDB
 
 #### Non-dedicated
@@ -70,7 +70,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
 * [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [Graphios](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
-* [heapster](https://github.com/GoogleCloudPlatform/heapster) - Monitor container resource usage of a [Kubernetes](http://kubernetes.io/) cluster
+* [heapster](https://github.com/kubernetes/heapster) - Monitor container resource usage of a [Kubernetes](http://kubernetes.io/) cluster
 * [heka](https://github.com/mozilla-services/heka) - General purpose data collection and processing tool
 * [internet_data_usage](https://github.com/precurse/internet_data_usage) - Python based application to pull data plan usage for different carriers such as Telus and Koodo
 * [jmxtrans](https://github.com/jmxtrans/jmxtrans) - Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.
@@ -121,7 +121,7 @@ Tools to import a fixed set of data into InfluxDB.
 
 ### Dashboards and visualization
 
-* [Chronograf](https://influxdb.com/chronograf/index.html) - Official InfluxDB data visualization tool (closed source)
+* [Chronograf](https://influxdata.com/time-series-platform/chronograf/) - Official InfluxDB data visualization tool (closed source)
 * [facette](https://github.com/facette/facette) - Time series data visualization and graphing software
 * [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
 * [ostent](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB
@@ -136,7 +136,7 @@ Tools to import a fixed set of data into InfluxDB.
 
 Tools, libraries, etc. to help you get InfluxDB running without installing it by hand.
 
-* [chef-influxdb](https://github.com/SimpleFinance/chef-influxdb) - Chef cookbook for InfluxDB
+* [chef-influxdb](https://github.com/bdangit/chef-influxdb) - Chef cookbook for InfluxDB
 * [golja-influxdb](https://github.com/n1tr0g/golja-influxdb) - Puppet module for InfluxDB
 * [influxdb-formulaf](https://github.com/saltstack-formulas/influxdb-formula) - Installs and configures the InfluxDB timeseries database
 * [influxdb-release](https://github.com/pivotal-cf-experimental/influxdb-release) - Experimental BOSH release for InfluxDB
@@ -167,6 +167,6 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, the authors and contributors have waived all copyright and related or neighboring rights to awesome-influxdb.
