@@ -119,6 +119,10 @@ Tools to import a fixed set of data into InfluxDB.
 
 * [nmon2influxdb](https://github.com/adejoux/nmon2influxdb) - Import [nmon](http://nmon.sourceforge.net/pmwiki.php) file into InfluxDB
 
+### Other tools
+
+* [influx-08-shim](https://github.com/DominionCider/influx-08-shim) - A tiny proxy server shim to ease the InfluxDB 0.8->0.9 transition
+
 ## Consuming data from InfluxDB
 
 ### Dashboards and visualization
