@@ -60,7 +60,6 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [ntp_checker](https://github.com/fss1/ntp_checker) - compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds
 * [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB
 * [Telegraf](https://github.com/influxdata/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB
-* [tesla-streamer](https://github.com/timdorr/tesla-streamer) - Streams data from Tesla Model S to InfluxDB
 
 #### Non-dedicated
 
