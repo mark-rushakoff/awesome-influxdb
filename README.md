@@ -10,7 +10,8 @@ Take a look at our page on [contributing](CONTRIBUTING.md) and then open a pull 
 
 If you know of any particularly useful blog posts, talks, slides, etc. that belong in this list, please open a pull request!
 
-* [Official documentation](https://docs.influxdata.com/influxdb/v0.9/)
+* [Official documentation](https://docs.influxdata.com/influxdb/v0.10/)
+* [Jepsen and InfluxDB, Chapter II. Where is InfluxDB on the CAP scale?](http://www.refactorium.com/distributed_systems/InfluxDB-and-Jepsen-Chapter-II-Where-is-influxdb-on-the-cap-scale/) - Technical writeup from Balint Pato on running Jepsen Tests against InfluxDB v0.10
 
 ## Client libraries
 
