@@ -78,7 +78,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [internet_data_usage](https://github.com/precurse/internet_data_usage) - Python based application to pull data plan usage for different carriers such as Telus and Koodo
 * [jmxtrans](https://github.com/jmxtrans/jmxtrans) - Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.
 * [metrics.sh](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
-* [Riemann](https://github.com/aphyr/riemann) - A network event stream processing system, in Clojure
+* [Riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD
 * [statsite](https://github.com/armon/statsite) - C implementation of statsd
 
