@@ -28,6 +28,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [capacitor](https://github.com/olauzon/capacitor) - A Clojure client for InfluxDB
 * [cl-influxdb](https://github.com/mmaul/cl-influxdb) - Common Lisp interface to the Time Series Database InfluxDB
 * [erflux](https://github.com/gossiperl/erflux) - InfluxDB client for Erlang
+* [fluxter](https://github.com/lexmag/fluxter) - An InfluxDB writer for Elixir
 * [influent](https://github.com/gobwas/influent) - InfluxDB Javascript driver
 * [influent.rs](https://github.com/gobwas/influent.rs) - InfluxDB Rust driver
 * [InfluxDB-Client-LabVIEW](https://github.com/johanvandenbroek/InfluxDB-Client-LabVIEW) - LabVIEW client for InfluxDB
@@ -40,6 +41,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [node-influx](https://github.com/node-influx/node-influx) - InfluxDB Node.js Client
 * [node-influx-udp](https://github.com/mediocre/node-influx-udp) - Write to InfluxDB using its UDP interface
 * [scala-influxdb-client](https://github.com/paulgoldbaum/scala-influxdb-client) - Asynchronous InfluxDB client for Scala
+
 
 ## Collecting data into InfluxDB
 
