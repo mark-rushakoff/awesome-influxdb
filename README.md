@@ -1,6 +1,6 @@
 # awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome projects, libraries, tools, etc. related to [InfluxDB](https://influxdata.com/).
+A curated list of awesome projects, libraries, tools, etc. related to [InfluxDB](https://www.influxdata.com/).
 This list focuses on libraries, tools, etc. supporting InfluxDB version 0.9 and up.
 
 Want to make this list better?
@@ -33,7 +33,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [influent.rs](https://github.com/gobwas/influent.rs) - InfluxDB Rust driver
 * [InfluxDB-Client-LabVIEW](https://github.com/johanvandenbroek/InfluxDB-Client-LabVIEW) - LabVIEW client for InfluxDB
 * [influxdb-haskell](https://github.com/maoe/influxdb-haskell) - Haskell client library for InfluxDB
-* [influxdb-lineprotocol](https://github.com/nblumhardt/influxdb-lineprotocol) - A .NET library for efficiently sending points to InfluxDB
+* [influxdb-lineprotocol](https://github.com/influxdata/influxdb-csharp) - A .NET library for efficiently sending points to InfluxDB
 * [InfluxDB.NET](https://github.com/ziyasal/InfluxDB.Net) - .NET client for InfluxDB
 * [InfluxDB PHP SDK](https://github.com/corley/influxdb-php-sdk) - UDP/IP or HTTP adapters for read and write data
 * [influxdbr](https://github.com/dleutnant/influxdbr) - R library for InfluxDB
@@ -91,7 +91,7 @@ Libraries to collect data and feed into InfluxDB.
 * [crow-metrics](https://github.com/robey/crow-metrics) - small metrics collector for node servers
 * [django-influxdb-metrics](https://github.com/bitmazk/django-influxdb-metrics) - A reusable Django app that sends metrics about your project to InfluxDB
 * [metrics](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
-* [pyVsphereInflux](https://github.com/fennm/pyVsphereInflux) - A library and supporting script for pulling data from [vSphere](https://www.vmware.com/products/vsphere) and inserting it into InfluxDB
+* [pyVsphereInflux](https://github.com/fennm/pyVsphereInflux) - A library and supporting script for pulling data from [vSphere](http://www.vmware.com/products/vsphere.html) and inserting it into InfluxDB
 * [telemetry](https://github.com/arussellsaw/telemetry) - metric reporting for Go applications
 
 #### Hooks
@@ -131,7 +131,7 @@ Tools to import a fixed set of data into InfluxDB.
 
 ### Dashboards and visualization
 
-* [Chronograf](https://influxdata.com/time-series-platform/chronograf/) - Official InfluxDB data visualization tool (closed source)
+* [Chronograf](https://www.influxdata.com/time-series-platform/chronograf/) - Official InfluxDB data visualization tool (closed source)
 * [facette](https://github.com/facette/facette) - Time series data visualization and graphing software
 * [FluxDash](https://github.com/vrecan/FluxDash) - Terminal based InfluxDB dashboard
 * [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
@@ -139,7 +139,7 @@ Tools to import a fixed set of data into InfluxDB.
 
 ### Other tools
 
-* [hubot-influxdb-alerts](https://github.com/amwelch-oss/hubot-influxdb-alerts) - Create and manage alerts in your chatroom using [hubot](https://hubot.github.com/) and influxdb
+* [hubot-influxdb-alerts](https://github.com/amwelch/hubot-influxdb-alerts) - Create and manage alerts in your chatroom using [hubot](https://hubot.github.com/) and influxdb
 * [influx-alert](https://github.com/joshrendek/influx-alert) - A tool to query InfluxDB and send alerts based on a YAML config
 * [Morgoth](https://github.com/nathanielc/morgoth) - Metric anomaly detection
 
