@@ -1,7 +1,7 @@
 # awesome-influxdb [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 A curated list of awesome projects, libraries, tools, etc. related to [InfluxDB](https://www.influxdata.com/).
-This list focuses on libraries, tools, etc. supporting InfluxDB version 0.9 and up.
+This list focuses on libraries, tools, etc. supporting InfluxDB version 1.0 and up.
 
 Want to make this list better?
 Take a look at our page on [contributing](CONTRIBUTING.md) and then open a pull request!
@@ -10,13 +10,14 @@ Take a look at our page on [contributing](CONTRIBUTING.md) and then open a pull 
 
 If you know of any particularly useful blog posts, talks, slides, etc. that belong in this list, please open a pull request!
 
-* [Official documentation](https://docs.influxdata.com/influxdb/v0.10/)
+* [Official documentation](https://docs.influxdata.com/influxdb/latest/)
 * [Jepsen and InfluxDB, Chapter II. Where is InfluxDB on the CAP scale?](http://www.refactorium.com/distributed_systems/InfluxDB-and-Jepsen-Chapter-II-Where-is-influxdb-on-the-cap-scale/) - Technical writeup from Balint Pato on running Jepsen Tests against InfluxDB v0.10
 
 ## Client libraries
 
 ### Official
 
+* [C#](https://github.com/influxdata/influxdb-csharp) - A .NET library for efficiently sending points to InfluxDB
 * [Go](https://github.com/influxdata/influxdb/tree/master/client) - Go client for InfluxDB, contained as package within main InfluxDB repo
 * [Java](https://github.com/influxdata/influxdb-java) - Java client for InfluxDB
 * [PHP](https://github.com/influxdata/influxdb-php) - PHP client for InfluxDB
@@ -33,7 +34,6 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [influent.rs](https://github.com/gobwas/influent.rs) - InfluxDB Rust driver
 * [InfluxDB-Client-LabVIEW](https://github.com/johanvandenbroek/InfluxDB-Client-LabVIEW) - LabVIEW client for InfluxDB
 * [influxdb-haskell](https://github.com/maoe/influxdb-haskell) - Haskell client library for InfluxDB
-* [influxdb-lineprotocol](https://github.com/influxdata/influxdb-csharp) - A .NET library for efficiently sending points to InfluxDB
 * [InfluxDB.NET](https://github.com/ziyasal/InfluxDB.Net) - .NET client for InfluxDB
 * [InfluxDB PHP SDK](https://github.com/corley/influxdb-php-sdk) - UDP/IP or HTTP adapters for read and write data
 * [influxdbr](https://github.com/dleutnant/influxdbr) - R library for InfluxDB
@@ -41,7 +41,6 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [node-influx](https://github.com/node-influx/node-influx) - InfluxDB Node.js Client
 * [node-influx-udp](https://github.com/mediocre/node-influx-udp) - Write to InfluxDB using its UDP interface
 * [scala-influxdb-client](https://github.com/paulgoldbaum/scala-influxdb-client) - Asynchronous InfluxDB client for Scala
-
 
 ## Collecting data into InfluxDB
 
@@ -59,12 +58,11 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [influxsnmp](https://github.com/paulstuart/influxsnmp) - Poll network devices via SNMP and save the data in InfluxDB
 * [mesos-influxdb-collector](https://github.com/kpacha/mesos-influxdb-collector) - Lightweight [mesos](https://mesos.apache.org/) stats collector for InfluxDB
 * [mqforward](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) to influxdb forwarder
-* [nest_poller](https://github.com/grempe/nest_poller) - A simple hack to retrieve and publish some statistics about [Nest](https://nest.com/) devices to an InfluxDB instance
 * [ntp_checker](https://github.com/fss1/ntp_checker) - compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds
 * [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB
 * [Telegraf](https://github.com/influxdata/telegraf) - (Official) plugin-driven server agent for reporting metrics into InfluxDB
 * [tesla-streamer](https://github.com/timdorr/tesla-trip/blob/master/lib/tesla_stream_reader.rb) - Streams data from Tesla Model S to InfluxDB ([rake task](https://github.com/timdorr/tesla-trip/blob/master/lib/tasks/tesla.rake#L12-L16))
-  
+
 #### Non-dedicated
 
 Tools that generate data that feed into multiple backends, InfluxDB included.
@@ -122,10 +120,6 @@ Plugins to allow other standalone tools to send their data into InfluxDB.
 Tools to import a fixed set of data into InfluxDB.
 
 * [nmon2influxdb](https://github.com/adejoux/nmon2influxdb) - Import [nmon](http://nmon.sourceforge.net/pmwiki.php) file into InfluxDB
-
-### Other tools
-
-* [influx-08-shim](https://github.com/DominionCider/influx-08-shim) - A tiny proxy server shim to ease the InfluxDB 0.8->0.9 transition
 
 ## Consuming data from InfluxDB
 
