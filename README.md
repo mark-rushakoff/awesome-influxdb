@@ -82,6 +82,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [jmxtrans](https://github.com/jmxtrans/jmxtrans) - Effectively the missing connector between speaking to a JVM via JMX on one end and whatever logging / monitoring / graphing package that you can dream up on the other end.
 * [logary](https://github.com/logary/logary) - High performance, multi-target logging, metric and health-check library for mono and .Net
 * [metrics.sh](https://github.com/pstadler/metrics.sh) - Collect and forward metrics using portable shell scripts
+* [OpenHAB](http://www.openhab.org/) - a universal integration platform for all things around home automation
 * [Riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD
 * [statsite](https://github.com/armon/statsite) - C implementation of statsd
