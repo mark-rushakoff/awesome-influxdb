@@ -93,6 +93,7 @@ Libraries to collect data and feed into InfluxDB.
 
 * [crow-metrics](https://github.com/robey/crow-metrics) - small metrics collector for node servers
 * [django-influxdb-metrics](https://github.com/bitmazk/django-influxdb-metrics) - A reusable Django app that sends metrics about your project to InfluxDB
+* [go-runtime-metrics](https://github.com/tevjef/go-runtime-metrics) - Collect golang runtime Metrics, outputting to InfluxDB or through Telegraf
 * [lua-resty-influx](https://github.com/p0pr0ck5/lua-resty-influx) - [OpenResty](https://openresty.org/en/) client for InfluxDB
 * [metrics](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
 * [pyVsphereInflux](https://github.com/fennm/pyVsphereInflux) - A library and supporting script for pulling data from [vSphere](http://www.vmware.com/products/vsphere.html) and inserting it into InfluxDB
