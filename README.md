@@ -134,7 +134,7 @@ Tools to import a fixed set of data into InfluxDB.
 
 ### Dashboards and visualization
 
-* [Chronograf](https://www.influxdata.com/time-series-platform/chronograf/) - Official InfluxDB data visualization tool (closed source)
+* [Chronograf](https://github.com/influxdata/chronograf) - Official InfluxDB data visualization tool
 * [facette](https://github.com/facette/facette) - Time series data visualization and graphing software
 * [FluxDash](https://github.com/vrecan/FluxDash) - Terminal based InfluxDB dashboard
 * [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
