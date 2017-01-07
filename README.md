@@ -86,14 +86,14 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [OpenHAB](http://www.openhab.org/) - a universal integration platform for all things around home automation
 * [Riemann](https://github.com/riemann/riemann) - A network event stream processing system, in Clojure
 * [statsd-jvm-profiler](https://github.com/etsy/statsd-jvm-profiler) - Simple JVM Profiler Using StatsD
-* [statsite](https://github.com/armon/statsite) - C implementation of statsd
+* [statsite](https://github.com/statsite/statsite) - C implementation of statsd
 
 ### Libraries
 
 Libraries to collect data and feed into InfluxDB.
 
 * [crow-metrics](https://github.com/robey/crow-metrics) - small metrics collector for node servers
-* [django-influxdb-metrics](https://github.com/bitmazk/django-influxdb-metrics) - A reusable Django app that sends metrics about your project to InfluxDB
+* [django-influxdb-metrics](https://github.com/bitlabstudio/django-influxdb-metrics) - A reusable Django app that sends metrics about your project to InfluxDB
 * [go-runtime-metrics](https://github.com/tevjef/go-runtime-metrics) - Collect golang runtime Metrics, outputting to InfluxDB or through Telegraf
 * [lua-resty-influx](https://github.com/p0pr0ck5/lua-resty-influx) - [OpenResty](https://openresty.org/en/) client for InfluxDB
 * [metrics](https://github.com/beberlei/metrics) - (PHP) Simple library that abstracts different metrics collectors. "I find this necessary to have a consistent and simple metrics (functional) API that doesn't cause vendor lock-in"
