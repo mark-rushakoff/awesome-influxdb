@@ -11,7 +11,6 @@ Take a look at our page on [contributing](CONTRIBUTING.md) and then open a pull 
 If you know of any particularly useful blog posts, talks, slides, etc. that belong in this list, please open a pull request!
 
 * [Official documentation](https://docs.influxdata.com/influxdb/latest/)
-* [Jepsen and InfluxDB, Chapter II. Where is InfluxDB on the CAP scale?](http://www.refactorium.com/distributed_systems/InfluxDB-and-Jepsen-Chapter-II-Where-is-influxdb-on-the-cap-scale/) - Technical writeup from Balint Pato on running Jepsen Tests against InfluxDB v0.10
 
 ## Client libraries
 
@@ -72,6 +71,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 Tools that generate data that feed into multiple backends, InfluxDB included.
 
 * [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers
+* [cernan](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
 * [cloudwatch-sender](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
 * [crankshaftd](https://github.com/Xorlev/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
 * [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
