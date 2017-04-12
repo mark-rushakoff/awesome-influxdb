@@ -139,6 +139,7 @@ Tools to import a fixed set of data into InfluxDB.
 * [facette](https://github.com/facette/facette) - Time series data visualization and graphing software
 * [FluxDash](https://github.com/vrecan/FluxDash) - Terminal based InfluxDB dashboard
 * [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
+* [InfluxGraph](https://github.com/InfluxGraph/influxgraph) - Graphite InfluxDB storage finder for Graphite-API
 * [ostent](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB
 
 ### Other tools
@@ -154,9 +155,9 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 
 * [chef-influxdb](https://github.com/bdangit/chef-influxdb) - Chef cookbook for InfluxDB
 * [golja-influxdb](https://github.com/n1tr0g/golja-influxdb) - Puppet module for InfluxDB
-* [puppet-telegraf[(https://forge.puppet.com/datacentred/telegraf/readme) - Puppet module for Telegraf
 * [influxdb-formula](https://github.com/saltstack-formulas/influxdb-formula) - Installs and configures the InfluxDB timeseries database
 * [influxdb-release](https://github.com/pivotal-cf-experimental/influxdb-release) - Experimental BOSH release for InfluxDB
+* [puppet-telegraf](https://forge.puppet.com/datacentred/telegraf/readme) - Puppet module for Telegraf
 * [rossmcdonald/influxdb](https://github.com/rossmcdonald/influxdb) - Ansible role for installing, configuring, and maintaining InfluxDB
 * [tutum-docker-influxdb](https://github.com/tutumcloud/influxdb) - Docker image to run an out-of-the-box InfluxDB server
 
