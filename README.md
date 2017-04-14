@@ -74,7 +74,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers
 * [cernan](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
 * [cloudwatch-sender](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
-* [crankshaftd](https://github.com/Xorlev/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
+* [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
 * [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
 * [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [Graphios](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
@@ -154,7 +154,7 @@ Tools to import a fixed set of data into InfluxDB.
 Tools, libraries, etc. to help you get InfluxDB running without installing it by hand.
 
 * [chef-influxdb](https://github.com/bdangit/chef-influxdb) - Chef cookbook for InfluxDB
-* [golja-influxdb](https://github.com/n1tr0g/golja-influxdb) - Puppet module for InfluxDB
+* [golja-influxdb](https://github.com/dgolja/golja-influxdb) - Puppet module for InfluxDB
 * [influxdb-formula](https://github.com/saltstack-formulas/influxdb-formula) - Installs and configures the InfluxDB timeseries database
 * [influxdb-release](https://github.com/pivotal-cf-experimental/influxdb-release) - Experimental BOSH release for InfluxDB
 * [puppet-telegraf](https://forge.puppet.com/datacentred/telegraf/readme) - Puppet module for Telegraf
