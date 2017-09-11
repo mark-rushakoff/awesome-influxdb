@@ -77,6 +77,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [cernan](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
 * [cloudwatch-sender](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
 * [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
+* [Domoticz](https://www.domoticz.com) - Open source Home Automation System
 * [gatling](https://github.com/gatling/gatling) - Async Scala-Akka-Netty based Stress Tool
 * [Glances](https://github.com/nicolargo/glances) - Glances an Eye on your system
 * [Graphios](https://github.com/shawn-sterling/graphios) - A program to send nagios perf data to graphite (carbon) / statsd / librato / influxDB
