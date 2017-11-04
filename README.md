@@ -52,6 +52,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 
 * [agento](https://github.com/abrander/agento) - Client/server collecting near realtime metrics from Linux hosts
 * [aggregateD](https://github.com/ccpgames/aggregateD) - A [dogstatsD](https://docs.datadoghq.com/guides/dogstatsd/) inspired metrics and event aggregation daemon for InfluxDB
+* [aprs2influxdb](https://github.com/FaradayRF/aprs2influxdb) - Interfaces ham radio APRS-IS servers and saves packet data into an influxdb database
 * [Charmander](https://github.com/att-innovate/charmander) - Charmander is a lab environment for measuring and analyzing resource-scheduling algorithms
 * [gopherwx](https://github.com/chrissnell/gopherwx) - a service that pulls live weather data from a Davis Instruments Vantage Pro2 station and stores it in InfluxDB
 * [grade](https://github.com/influxdata/grade) - Track Go benchmark performance over time by storing results in InfluxDB
