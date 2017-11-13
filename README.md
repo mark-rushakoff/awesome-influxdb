@@ -11,6 +11,7 @@ Take a look at our page on [contributing](CONTRIBUTING.md) and then open a pull 
 If you know of any particularly useful blog posts, talks, slides, etc. that belong in this list, please open a pull request!
 
 * [Official documentation](https://docs.influxdata.com/influxdb/latest/)
+* [InfluxDB in IoT world: Introduction (_blog series_)](https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/)
 
 ## Client libraries
 
