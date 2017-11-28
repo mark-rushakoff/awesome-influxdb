@@ -11,7 +11,7 @@ Take a look at our page on [contributing](CONTRIBUTING.md) and then open a pull 
 If you know of any particularly useful blog posts, talks, slides, etc. that belong in this list, please open a pull request!
 
 * [Official documentation](https://docs.influxdata.com/influxdb/latest/)
-* InfluxDB in IoT world. [Part 1: Introduction](https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/) | [Part 2: Hosting and scaling on AWS](https://www.easyitblog.info/2017/11/14/influxdb-in-iot-world-aws-part-2/)
+* InfluxDB in IoT world. [Part 1: Introduction](https://www.easyitblog.info/2017/11/10/influxdb-and-grafana-fighting-together-with-iot-data-attack/) | [Part 2: Hosting and scaling on AWS](https://www.easyitblog.info/2017/11/14/influxdb-in-iot-world-aws-part-2/) | [Part 3: Plotting graphs using Grafana](https://www.easyitblog.info/2017/11/26/influxdb-in-iot-world-making-it-production-ready-part-3/)
 
 ## Client libraries
 
