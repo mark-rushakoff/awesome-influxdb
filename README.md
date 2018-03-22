@@ -42,6 +42,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [node-influx](https://github.com/node-influx/node-influx) - InfluxDB Node.js Client
 * [node-influx-udp](https://github.com/mediocre/node-influx-udp) - Write to InfluxDB using its UDP interface
 * [scala-influxdb-client](https://github.com/paulgoldbaum/scala-influxdb-client) - Asynchronous InfluxDB client for Scala
+* [influxdb-cpp-rest](https://github.com/d-led/influxdb-cpp-rest) - A C++ InfluxDB client with a batching async interface
 
 ## Collecting data into InfluxDB
 
