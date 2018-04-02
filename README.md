@@ -81,6 +81,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 Tools that generate data that feed into multiple backends, InfluxDB included.
 
 * [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers
+* [Centreon](https://github.com/centreon/centreon) - A network, system, applicative supervision and monitoring tool 
 * [cernan](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
 * [cloudwatch-sender](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
 * [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
