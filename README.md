@@ -135,7 +135,7 @@ Plugins to allow other standalone tools to send their data into InfluxDB.
 * [logstash-output-influxdb](https://github.com/logstash-plugins/logstash-output-influxdb) - Community-maintained [Logstash](https://www.elastic.co/products/logstash) plugin to output metrics to InfluxDB
 * [metrics-influxdb](https://github.com/davidB/metrics-influxdb) - A reporter for [dropwizard](http://www.dropwizard.io/0.9.1/docs/) metrics which announces measurements to an InfluxDB server
 * [mod-influxdb](https://github.com/savoirfairelinux/mod-influxdb) - [Shinken](http://www.shinken-monitoring.org/) module for exporting data to InfluxDB
-* [sensu-plugins-influxdb](https://github.com/sensu-plugins/sensu-plugins-influxdb) - [Sensu](https://sensuapp.org/) InfluxDB Plugins
+* [sensu-plugins-influxdb](https://github.com/sensu-plugins/sensu-plugins-influxdb) - [Sensu](https://sensu.io/) InfluxDB Plugins
 * [snap-plugin-publisher-influxdb](https://github.com/intelsdi-x/snap-plugin-publisher-influxdb) - Publishes [snap](http://snap-telemetry.io/) metrics to InfluxDB
 * [statsd-influxdb-backend](https://github.com/bernd/statsd-influxdb-backend) - A naive InfluxDB backend for StatsD
 
@@ -197,6 +197,7 @@ Projects that don't seem to fit in any other category.
 * [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
 * [awesome-db](https://github.com/numetriclabz/awesome-db)
 * [awesome-go](https://github.com/avelino/awesome-go)
+* [awesome-microservices](https://github.com/mfornos/awesome-microservices)
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
 ### Lists of awesome lists that include awesome-influxdb
