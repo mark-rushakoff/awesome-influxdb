@@ -187,6 +187,7 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 Projects that don't seem to fit in any other category.
 
 * [influx-protector](https://github.com/ve-global/influx-protector) - proxy to prevent dangerous queries getting to influxdb
+* [influxdb-schema-updater](https://github.com/open-ch/influxdb-schema-updater) - A small DevOps tool to manage the schema of an InfluxDB instance with a set of configuration files
 
 ## Other awesome lists
 
