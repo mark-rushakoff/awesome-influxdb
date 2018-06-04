@@ -188,6 +188,7 @@ Projects that don't seem to fit in any other category.
 
 * [influx-protector](https://github.com/ve-global/influx-protector) - proxy to prevent dangerous queries getting to influxdb
 * [influxdb-schema-updater](https://github.com/open-ch/influxdb-schema-updater) - A small DevOps tool to manage the schema of an InfluxDB instance with a set of configuration files
+* [influx-prompt](https://github.com/RPing/influx-prompt) - An interactive command-line InfluxDB cli with auto completion
 
 ## Other awesome lists
 
