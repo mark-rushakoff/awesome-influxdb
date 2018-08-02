@@ -199,6 +199,7 @@ Projects that don't seem to fit in any other category.
 * [awesome-data-engineering](https://github.com/igorbarinov/awesome-data-engineering)
 * [awesome-db](https://github.com/numetriclabz/awesome-db)
 * [awesome-go](https://github.com/avelino/awesome-go)
+* [awesome-home-assistant](https://github.com/frenck/awesome-home-assistant)
 * [awesome-microservices](https://github.com/mfornos/awesome-microservices)
 * [awesome-sysadmin](https://github.com/kahun/awesome-sysadmin)
 
