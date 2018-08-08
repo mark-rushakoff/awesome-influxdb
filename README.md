@@ -82,7 +82,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 Tools that generate data that feed into multiple backends, InfluxDB included.
 
 * [cAdvisor](https://github.com/google/cadvisor) - Analyzes resource usage and performance characteristics of running containers
-* [Centreon](https://github.com/centreon/centreon) - A network, system, applicative supervision and monitoring tool 
+* [Centreon](https://github.com/centreon/centreon) - A network, system, applicative supervision and monitoring tool
 * [cernan](https://github.com/postmates/cernan) - A telemetry and logging aggregation server
 * [cloudwatch-sender](https://github.com/BBC-News/cloudwatch-sender) - Send metrics to InfluxDB/Graphite from [Amazon Cloudwatch](https://aws.amazon.com/cloudwatch/)
 * [crankshaftd](https://github.com/fullcontact/crankshaftd) - Simple Go agent to ingest streaming data from [Turbine](https://github.com/Netflix/Turbine) via SSE and push it into StatsD as a gauge or to InfluxDB
@@ -136,6 +136,7 @@ Plugins to allow other standalone tools to send their data into InfluxDB.
 * [metrics-influxdb](https://github.com/davidB/metrics-influxdb) - A reporter for [dropwizard](http://www.dropwizard.io/0.9.1/docs/) metrics which announces measurements to an InfluxDB server
 * [mod-influxdb](https://github.com/savoirfairelinux/mod-influxdb) - [Shinken](http://www.shinken-monitoring.org/) module for exporting data to InfluxDB
 * [sensu-plugins-influxdb](https://github.com/sensu-plugins/sensu-plugins-influxdb) - [Sensu](https://sensu.io/) InfluxDB Plugins
+* [sidekiq-influxdb](https://github.com/vassilevsky/sidekiq-influxdb) - A [Sidekiq](https://sidekiq.org/) middleware to send job execution metrics to InfluxDB
 * [snap-plugin-publisher-influxdb](https://github.com/intelsdi-x/snap-plugin-publisher-influxdb) - Publishes [snap](http://snap-telemetry.io/) metrics to InfluxDB
 * [statsd-influxdb-backend](https://github.com/bernd/statsd-influxdb-backend) - A naive InfluxDB backend for StatsD
 
