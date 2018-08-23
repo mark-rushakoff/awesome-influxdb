@@ -184,10 +184,10 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 
 ## Hosting of InfluxDB / SaaS
 
-* [InfluxCloud](https://cloud.influxdata.com/plan-picker) - From the creators of InfluxDB.
-* [Aiven](https://aiven.io/influxdb) - Provides a choice of host (AWS, Google, DigitalOcean, etc.), geographic location, and server specs.
-* [Scalingo](https://scalingo.com/databases/influxdb) - Provides a choice of server specs.
-* [HostedMetrics](https://hostedmetrics.com/product/influxdb/) - Geared towards custom application monitoring by hosting the combination of InfluxDB, Grafana, and StatsD.
+* [InfluxCloud](https://cloud.influxdata.com/plan-picker) - From the creators of InfluxDB
+* [Aiven](https://aiven.io/influxdb) - Provides a choice of host (AWS, Google, DigitalOcean, etc.), geographic location, and server specs
+* [Scalingo](https://scalingo.com/databases/influxdb) - Provides a choice of server specs
+* [HostedMetrics](https://hostedmetrics.com/product/influxdb/) - Geared towards custom application monitoring by hosting the combination of InfluxDB, Grafana, and StatsD
 
 
 ## Miscellaneous
