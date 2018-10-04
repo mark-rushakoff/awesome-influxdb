@@ -67,6 +67,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [marathon-event-metrics](https://github.com/Wikia/marathon-event-metrics) - a tool for reporting [Marathon](https://mesosphere.github.io/marathon/) events to InfluxDB
 * [mesos-influxdb-collector](https://github.com/kpacha/mesos-influxdb-collector) - Lightweight [mesos](https://mesos.apache.org/) stats collector for InfluxDB
 * [mqforward](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) to influxdb forwarder
+* [node-opcua-logger](https://github.com/coussej/node-opcua-logger) - Collect industrial data from OPC UA Servers 
 * [ntp_checker](https://github.com/fss1/ntp_checker) - compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds
 * [proc_to_influxdb](https://github.com/d-led/proc_to_influxdb) - Console app to observe Windows process starts and stops via InfluxDB
 * [pysysinfo_influxdb](https://github.com/nagylzs/pysysinfo_influxdb) - Periodically send system information into influxdb (uses python3 + psutil, so it also works under Windows)
