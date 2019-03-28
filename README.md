@@ -146,6 +146,8 @@ Plugins to allow other standalone tools to send their data into InfluxDB.
 Tools to import a fixed set of data into InfluxDB.
 
 * [nmon2influxdb](https://github.com/adejoux/nmon2influxdb) - Import [nmon](http://nmon.sourceforge.net/pmwiki.php) file into InfluxDB
+* [LoadRunner Raw Results Exporter](https://admhelp.microfocus.com/lr/en/12.60-12.62/help/WebHelp/Content/Controller/raw_results_exporter.htm) - To export scenario results (load test results) to InfluxDB
+
 
 ## Consuming data from InfluxDB
 
