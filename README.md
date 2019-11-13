@@ -158,12 +158,13 @@ Tools to import a fixed set of data into InfluxDB.
 ### Dashboards and visualization
 
 * [Chronograf](https://github.com/influxdata/chronograf) - Official InfluxDB data visualization tool
+* [DBeaver](https://dbeaver.com/databases/influxdb/) - DBeaver Universal Database Tool, DBeaver Enterprise has special extensions for InfluxDB
 * [facette](https://github.com/facette/facette) - Time series data visualization and graphing software
 * [FluxDash](https://github.com/vrecan/FluxDash) - Terminal based InfluxDB dashboard
 * [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
+* [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)
 * [InfluxGraph](https://github.com/InfluxGraph/influxgraph) - Graphite InfluxDB storage finder for Graphite-API
 * [ostent](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB
-* [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)
 
 ### Other tools
 
