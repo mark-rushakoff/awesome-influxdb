@@ -149,7 +149,7 @@ Plugins to allow other standalone tools to send their data into InfluxDB.
 ### Import tools
 
 Tools to import a fixed set of data into InfluxDB.
-
+* [JMeter2InfluxDB](https://github.com/soprasteria/jmeter2influxdb) - Read JMeter results in a csv file and put results in InfluxDB after the load test
 * [LoadRunner Raw Results Exporter](https://admhelp.microfocus.com/lr/en/12.60-12.62/help/WebHelp/Content/Controller/raw_results_exporter.htm) - To export scenario results (load test results) to InfluxDB
 * [nmon2influxdb](https://github.com/adejoux/nmon2influxdb) - Import [nmon](http://nmon.sourceforge.net/pmwiki.php) file into InfluxDB
 
@@ -158,12 +158,13 @@ Tools to import a fixed set of data into InfluxDB.
 ### Dashboards and visualization
 
 * [Chronograf](https://github.com/influxdata/chronograf) - Official InfluxDB data visualization tool
+* [DBeaver](https://dbeaver.com/databases/influxdb/) - DBeaver Universal Database Tool, DBeaver Enterprise has special extensions for InfluxDB
 * [facette](https://github.com/facette/facette) - Time series data visualization and graphing software
 * [FluxDash](https://github.com/vrecan/FluxDash) - Terminal based InfluxDB dashboard
 * [grafana](https://github.com/grafana/grafana) - Gorgeous metric viz, dashboards & editors for Graphite, InfluxDB & OpenTSDB
+* [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)
 * [InfluxGraph](https://github.com/InfluxGraph/influxgraph) - Graphite InfluxDB storage finder for Graphite-API
 * [ostent](https://github.com/ostrost/ostent) - collects and displays system metrics and optionally relays to Graphite and/or InfluxDB
-* [InfluxDB Studio](https://github.com/CymaticLabs/InfluxDBStudio) - InfluxDB Studio is a UI management tool, its inspiration comes from other similar SQL database management tools (use InfluxData.Net run on MS Windows)
 
 ### Other tools
 
