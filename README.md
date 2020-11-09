@@ -33,6 +33,7 @@ If you know of any particularly useful blog posts, talks, slides, etc. that belo
 * [fluxter](https://github.com/lexmag/fluxter) - An InfluxDB writer for Elixir
 * [influent](https://github.com/gobwas/influent) - InfluxDB Javascript driver
 * [influent.rs](https://github.com/gobwas/influent.rs) - InfluxDB Rust driver
+* [InfluxDB-Client-for-Arduino](https://github.com/tobiasschuerg/InfluxDB-Client-for-Arduino) - Arduino client for InfluxDB
 * [InfluxDB-Client-LabVIEW](https://github.com/johanvandenbroek/InfluxDB-Client-LabVIEW) - LabVIEW client for InfluxDB
 * [influxdb-cpp-rest](https://github.com/d-led/influxdb-cpp-rest) - A C++ InfluxDB client with a batching async interface
 * [influxdb-haskell](https://github.com/maoe/influxdb-haskell) - Haskell client library for InfluxDB
