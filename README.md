@@ -191,6 +191,7 @@ Tools, libraries, etc. to help you get InfluxDB running without installing it by
 * [dbal-influxdb](https://github.com/corley/dbal-influxdb) - Doctrine DBAL for InfluxDB
 * [Influxdb::Arel](https://github.com/undr/influxdb-arel) - Influxdb::Arel is a SQL AST manager for InfluxDB dialect. It simplifies the generation of complex SQL queries
 * [influxer](https://github.com/palkan/influxer) - InfluxDB ActiveRecord-style
+* [Time Series Admin](https://github.com/timeseriesadmin/timeseriesadmin) - Administration panel and querying interface for InfluxDB databases
 
 ## Hosting of InfluxDB / SaaS
 
