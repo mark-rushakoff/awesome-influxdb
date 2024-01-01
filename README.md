@@ -58,6 +58,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [aggregateD](https://github.com/ccpgames/aggregateD) - A [dogstatsD](https://docs.datadoghq.com/guides/dogstatsd/) inspired metrics and event aggregation daemon for InfluxDB
 * [aprs2influxdb](https://github.com/FaradayRF/aprs2influxdb) - Interfaces ham radio APRS-IS servers and saves packet data into an influxdb database
 * [Charmander](https://github.com/att-innovate/charmander) - Charmander is a lab environment for measuring and analyzing resource-scheduling algorithms
+* [cloudflare-exporter](https://github.com/rare-magma/cloudflare-exporter) - Bash script that uploads the Cloudflare Analytics API data to InfluxDB on an hourly basis
 * [gopherwx](https://github.com/chrissnell/gopherwx) - a service that pulls live weather data from a Davis Instruments Vantage Pro2 station and stores it in InfluxDB
 * [grade](https://github.com/influxdata/grade) - Track Go benchmark performance over time by storing results in InfluxDB
 * [Influx-Capacitor](https://github.com/poxet/Influx-Capacitor) - Influx-Capacitor collects metrics from windows machines using Performance Counters. Data is sent to influxDB to be viewable by grafana
@@ -70,6 +71,7 @@ Tools whose primary or sole purpose is to feed data into InfluxDB.
 * [mqforward](https://github.com/shirou/mqforward) - [MQTT](http://mqtt.org/) to influxdb forwarder
 * [node-opcua-logger](https://github.com/coussej/node-opcua-logger) - Collect industrial data from OPC UA Servers
 * [ntp_checker](https://github.com/fss1/ntp_checker) - compares internal NTP sources and warns if the offset between servers exceeds a definable (fraction of) seconds
+* [open-meteo-exporter](https://github.com/rare-magma/open-meteo-exporter) - Bash script that uploads the current air quality data from the Open-Meteo API to InfluxDB on an hourly basis
 * [proc_to_influxdb](https://github.com/d-led/proc_to_influxdb) - Console app to observe Windows process starts and stops via InfluxDB
 * [pysysinfo_influxdb](https://github.com/nagylzs/pysysinfo_influxdb) - Periodically send system information into influxdb (uses python3 + psutil, so it also works under Windows)
 * [sysinfo_influxdb](https://github.com/novaquark/sysinfo_influxdb) - Collect and send system (linux) info to InfluxDB
