@@ -173,6 +173,7 @@ Tools to import a fixed set of data into InfluxDB.
 * [influx-alert](https://github.com/joshrendek/influx-alert) - A tool to query InfluxDB and send alerts based on a YAML config
 * [influxdb_google_sheets](https://github.com/HormyAJP/influxdb_google_sheets) - Google Sheets script for fetching and formatting InfluxDB data
 * [Morgoth](https://github.com/nathanielc/morgoth) - Metric anomaly detection
+* [MindsDB](https://github.com/mindsdb/mindsdb) - The platform for customizing AI from enterprise data. [MindsDB integrates with InfluxDB](https://docs.mindsdb.com/integrations/data-integrations/influxdb), making data from InfluxDB accessible to a diverse range of AI/ML models.
 
 ## Provisioning InfluxDB
 
