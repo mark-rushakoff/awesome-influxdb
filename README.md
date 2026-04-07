@@ -6,6 +6,7 @@ This list focuses on libraries, tools, etc. supporting InfluxDB version 1.0 and 
 Want to make this list better?
 Take a look at our page on [contributing](CONTRIBUTING.md) and then open a pull request!
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for InfluxDB time-series workflow orchestration, automated metrics pipeline management, and multi-agent coordination. MIT licensed.
 ## Reference material
 
 If you know of any particularly useful blog posts, talks, slides, etc. that belong in this list, please open a pull request!
