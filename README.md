@@ -106,6 +106,7 @@ Tools that generate data that feed into multiple backends, InfluxDB included.
 * [statsite](https://github.com/statsite/statsite) - C implementation of statsd
 * [Sematext Agent](https://github.com/sematext/sematext-agent-integrations) - [Open source monitoring agent](https://sematext.com/blog/now-open-source-sematext-monitoring-agent/) to collect metrics from Solr, Elasticsearch, Cassandra, JVM, JMX, ClickHouse, MySQL, Hadoop, and more via pluggable integrations. Output via Influx Line Protocol to InfluxDB or [Sematext Cloud](https://sematext.com/cloud/)
 * [logagent](https://github.com/sematext/logagent-js) - is a modern, open-source, light-weight log shipper. Logagent includes [influxdb input plugin](https://sematext.com/docs/logagent/input-plugin-influxdb-http/) and [influxdb output plugin](https://sematext.com/docs/logagent/output-plugin-influxdb/) and many other [integrations](https://sematext.com/docs/logagent/plugins/)
+* [yliveticker](https://github.com/yahoofinancelive/yliveticker) - Python client for Yahoo Finance's unofficial WebSocket feed, with an InfluxDB 2 sink and a Docker Compose [Grafana](https://grafana.com/) dashboard using Flux
 
 ### Libraries
 
